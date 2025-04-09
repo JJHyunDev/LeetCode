@@ -12,11 +12,11 @@ class Solution {
 
         // Slide the window across the string
         for (int i = k; i < s.length(); i++) {
-            if (vowelSet.indexOf(s.charAt(i)) != -1) vowelCount++;   // Add new character
-            if (vowelSet.indexOf(s.charAt(i - k)) != -1) vowelCount--; // Remove old character
+            if (vowelSet.indexOf(s.charAt(i)) != -1) vowelCount++;   
+            if (vowelSet.indexOf(s.charAt(i - k)) != -1) vowelCount--; 
 
             maxVowelCount = Math.max(maxVowelCount, vowelCount);
-            if (maxVowelCount == k) return k; // Early exit if max possible reached
+            if (maxVowelCount == k) return k; 
         }
 
         return maxVowelCount;
