@@ -12,7 +12,7 @@ class Solution {
                     return b.getValue() -a.getValue();
                 }
                 return a.getKey().compareTo(b.getKey());
-    });
+        });
 
         for(HashMap.Entry<String, Integer> entry : map.entrySet()){
             heap.add(entry);
