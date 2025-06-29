@@ -1,0 +1,26 @@
+class Solution {
+    public int[] searchRange(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length - 1;
+        int[] answer = {-1, -1};
+
+        while(left <= right){
+            if(nums[left] == target){
+                answer[0] = left;
+                if(answer[1] != -1){
+                    break;
+                }
+            }
+            if(nums[right] == target){
+                answer[1] = right;
+                if(answer[0] != -1){
+                    break;
+                }
+            }
+            if(nums[left] < target) left++;
+            if(nums[right] > target) right--;
+        }
+
+          return answer;
+    }
+}
