@@ -5,17 +5,10 @@ class Solution {
         int[] answer = {-1, -1};
 
         while(left <= right){
-            if(nums[left] == target){
+            if(nums[left] == target && nums[right] == target){
                 answer[0] = left;
-                if(answer[1] != -1){
-                    break;
-                }
-            }
-            if(nums[right] == target){
                 answer[1] = right;
-                if(answer[0] != -1){
-                    break;
-                }
+                break;
             }
             if(nums[left] < target) left++;
             if(nums[right] > target) right--;
