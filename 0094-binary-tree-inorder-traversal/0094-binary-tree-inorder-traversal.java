@@ -16,16 +16,20 @@
 class Solution {
     List<Integer> answer = new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-    dfs(root);
-    return answer;
-    }
-
-    void dfs(TreeNode root) {
-        if(root == null){
-            return;
+        if(root == null) {
+            return answer;
         }
-        dfs(root.left);
-        answer.add(root.val);
-        dfs(root.right);
+
+        dfs(root);
+        return answer;
     }
+    void dfs(TreeNode node) {
+            if(node == null) {
+                return;
+            }
+
+            dfs(node.left);
+            answer.add(node.val);
+            dfs(node.right);
+        }
 }
