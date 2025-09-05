@@ -1,24 +1,31 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        String vowelSet = "aeiou";
-        int vowelCount = 0;
+        HashSet set = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u'));
+        // right ++ , right - left + 1 > k -> left++
+        // subarray에 편입할 때 해당 알파벳과 편출하는 알파벳을 검사? 아니면 매번 subarray 전체 검사?
+        // 편입할 때 검사하는게 쉬울 것 같다.
+        char arr[] = s.toCharArray();
+        int left = 0;
+        int cnt = 0;
+        int max = 0;
 
-        // Initialize the first window
-        for (int i = 0; i < k; i++) {
-            if (vowelSet.indexOf(s.charAt(i)) != -1) vowelCount++;
+        for(int right = 0; right < arr.length; right++) {
+            int len = right - left + 1;
+            
+            if(set.contains(arr[right])) {
+                cnt++;
+            }
+
+            if(len > k) {
+                if(set.contains(arr[left])) {
+                    cnt--;
+                }
+                left++;
+            }
+
+            max = Math.max(max, cnt);
         }
 
-        int maxVowelCount = vowelCount;
-
-        // Slide the window across the string
-        for (int i = k; i < s.length(); i++) {
-            if (vowelSet.indexOf(s.charAt(i)) != -1) vowelCount++;   
-            if (vowelSet.indexOf(s.charAt(i - k)) != -1) vowelCount--; 
-
-            maxVowelCount = Math.max(maxVowelCount, vowelCount);
-            if (maxVowelCount == k) return k; 
-        }
-
-        return maxVowelCount;
+        return max;
     }
 }
