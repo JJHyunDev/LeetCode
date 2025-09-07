@@ -11,7 +11,7 @@ class Solution {
         }
 
         List<List<Integer>> answer = new ArrayList<>();
-        List<Integer> winTemp = new ArrayList<>();
+        List<Integer> winTemp = new ArrayList<>(); // List를 따로 선언해서 사용해줬다.
         for(int i : winneri.keySet()){
             if(!loseri.containsKey(i)){
                 winTemp.add(i);
@@ -20,7 +20,7 @@ class Solution {
         Collections.sort(winTemp);
         answer.add(winTemp);
         
-        List<Integer> loseTemp = new ArrayList<>();
+        List<Integer> loseTemp = new ArrayList<>(); // List를 따로 선언함.
         for(int i : loseri.keySet()){
             if(loseri.get(i) == 1){
                 loseTemp.add(i);
