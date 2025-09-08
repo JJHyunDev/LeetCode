@@ -9,7 +9,7 @@ class Solution {
         for(int num : nums) {
             temp += num;
             ans += map.getOrDefault(temp - k, 0);
-            map.put(temp, map.getOrDefault(temp. 0) + 1);
+            map.put(temp, map.getOrDefault(temp, 0) + 1);
         }
         return ans;
     }
