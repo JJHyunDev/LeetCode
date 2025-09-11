@@ -11,6 +11,7 @@ class Solution {
         for(String key : map.keySet()){
             if(!map.containsKey(map.get(key))){
                 ans = map.get(key);
+                break;
             }
         }
 
