@@ -1,13 +1,21 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
         HashMap<Integer, Integer> map = new HashMap<>();
+        Set<Integer> set = new HashSet<>();
 
-        for(int i : arr){   // arr 를 돌면서 해당 요소 등장 횟수를 map 에 초기화
-            map.put(i, map.getOrDefault(i, 0) + 1);
+        for(int num : arr) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        HashSet<Integer> set = new HashSet<>(map.values());
+        for(int key : map.keySet()) {
+            int value = map.get(key);
+            if(set.contains(value)) {
+                return false;
+            }
 
-        return map.size() == set.size();
+            set.add(map.get(key));
+        }
+
+        return true;
     }
 }
