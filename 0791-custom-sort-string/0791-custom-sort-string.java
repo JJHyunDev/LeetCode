@@ -1,32 +1,35 @@
 class Solution {
-    public String customSortString(String order, String str) {
-       HashMap<Character,Integer> hm = new HashMap<>();
-        for(int i=0;i<str.length();i++)    // creating the frequency of each character using hashmap
-        {
-            if(hm.containsKey(str.charAt(i)))
-               hm.put(str.charAt(i),hm.get(str.charAt(i))+1);
-            else
-               hm.put(str.charAt(i),1);
+    public String customSortString(String order, String s) {
+        HashMap<Character, Integer> map = new HashMap<>();
+        for(int i = 0; i < s.length(); i++) {
+            if(map.containsKey(s.charAt(i))) {
+                map.put(s.charAt(i), map.get(s.charAt(i)) + 1);
+            } else {
+                map.put(s.charAt(i), 1);
+            }
         }
-        String res ="";
-        
-        for(int i=0;i<order.length();i++)
-        {
-            char ch=order.charAt(i);
-            if(!hm.containsKey(ch))        //  If the string character is not present in the order string
+
+        StringBuilder sb = new StringBuilder();
+        for(int i = 0; i < order.length(); i++) {
+            char c = order.charAt(i);
+            if(!map.containsKey(c)) {
                 continue;
-            int freq = hm.get(ch);
-            for(int j=0;j<freq;j++)
-                res+=Character.toString(ch);     // appending the result
-            hm.remove(ch);         // freeing the hashmap
+            }
+
+            int num = map.get(c);
+            for(int j = 0; j < num; j++) {
+                sb.append(c);
+            }
+            map.remove(c);
         }
-        
-        for(Character key : hm.keySet()) // Appending Remaining characters that are not present in the order string
-        {
-            int freq = hm.get(key);
-            for(int j=0;j<freq;j++)
-                res+=Character.toString(key);
+
+        for(Character key : map.keySet()) {
+            int num = map.get(key);
+            for(int j = 0; j < num; j++) {
+                sb.append(key);
+            }
         }
-               return res;
+
+        return sb.toString();
     }
 }
