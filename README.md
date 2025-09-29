@@ -18,9 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+## Array
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
