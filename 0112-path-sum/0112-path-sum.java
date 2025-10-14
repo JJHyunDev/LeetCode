@@ -25,7 +25,7 @@ class Solution {
             return false;
         }
 
-        if(node.left == null && node.right == null) {
+        if(node.left == null && node.right == null) { // leaf node 인지 검사
             return (curr + node.val) == target;
         }
 
