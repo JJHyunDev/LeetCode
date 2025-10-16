@@ -43,11 +43,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JJHyunDev/LeetCode/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JJHyunDev/LeetCode/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,4 +60,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JJHyunDev/LeetCode/tree/master/0112-path-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
