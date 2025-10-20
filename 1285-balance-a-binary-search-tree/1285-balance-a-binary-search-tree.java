@@ -15,29 +15,28 @@
  */
 class Solution {
     List<Integer> sortedValues = new ArrayList<>();
-     
     public TreeNode balanceBST(TreeNode root) {
-        inOrderTraversal(root);
-
+        isOrderTraversal(root);
         return dfs(0, sortedValues.size() - 1);
     }
 
-    public void inOrderTraversal(TreeNode node) {
+    public void isOrderTraversal(TreeNode node) {
         if(node == null) {
             return;
         }
 
-        inOrderTraversal(node.left);
+        isOrderTraversal(node.left);
         sortedValues.add(node.val);
-        inOrderTraversal(node.right);
+        isOrderTraversal(node.right);
     }
 
     public TreeNode dfs(int start, int end) {
         if(start > end) {
             return null;
         }
+        
+        int mid = start + (end - start) / 2; 
 
-        int mid = start + (end - start) / 2;
         TreeNode root = new TreeNode(sortedValues.get(mid));
 
         root.left = dfs(start, mid - 1);
