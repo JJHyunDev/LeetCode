@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 ## String
 |  |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/JJHyunDev/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JJHyunDev/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/JJHyunDev/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JJHyunDev/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -73,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JJHyunDev/LeetCode/tree/master/0112-path-sum) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/JJHyunDev/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -84,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/JJHyunDev/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/JJHyunDev/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -97,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
