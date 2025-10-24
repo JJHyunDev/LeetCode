@@ -1,24 +1,22 @@
 class Solution {
-    List<List<Integer>> allPaths;
+    List<List<Integer>> answer;
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
-        allPaths = new ArrayList<>();
+        answer = new ArrayList<>();
 
         List<Integer> currentPath = new ArrayList<>();
-
-        int targetNode = graph.length - 1;
-
         currentPath.add(0);
 
-        dfs(graph, 0, targetNode, currentPath);
+        int target = graph.length - 1;
+        
+        dfs(graph, 0, target, currentPath);
 
-        return allPaths;
+        return answer;
     }
 
     public void dfs(int[][] graph, int currentNode, int targetNode, List<Integer> currentPath) {
         if(currentNode == targetNode) {
-            allPaths.add(new ArrayList<>(currentPath));
-
-            return;
+            answer.add(new ArrayList<>(currentPath));
+            return;   
         }
 
         for(int neighbor : graph[currentNode]) {
