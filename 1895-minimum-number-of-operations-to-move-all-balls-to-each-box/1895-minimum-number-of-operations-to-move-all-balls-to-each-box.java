@@ -13,10 +13,8 @@ class Solution {
         int[] ans = new int[arr.length];
         for(int i = 0; i < ans.length; i++) {
             int temp = 0;
-            for(int j = 0; j < arr.length; j++) {
-                if(arr[j] == '1') {
-                    temp += Math.abs(i - j);
-                }
+            for(int j : set){
+                temp += Math.abs(i - j);
             }
             ans[i] = temp;
         }
