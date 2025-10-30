@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/JJHyunDev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JJHyunDev/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/JJHyunDev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0975-range-sum-of-bst](https://github.com/JJHyunDev/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/JJHyunDev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
