@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/JJHyunDev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/JJHyunDev/LeetCode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JJHyunDev/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JJHyunDev/LeetCode/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/JJHyunDev/LeetCode/tree/master/0322-coin-change) |
 | [0813-all-paths-from-source-to-target](https://github.com/JJHyunDev/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/JJHyunDev/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/JJHyunDev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/JJHyunDev/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
