@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JJHyunDev/LeetCode/tree/master/0112-path-sum) |
+| [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/JJHyunDev/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/JJHyunDev/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JJHyunDev/LeetCode/tree/master/0112-path-sum) |
+| [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/JJHyunDev/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/JJHyunDev/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/JJHyunDev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JJHyunDev/LeetCode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0070-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Sorting
 |  |
 | ------- |
@@ -172,4 +176,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JJHyunDev/LeetCode/tree/master/0002-add-two-numbers) |
+| [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
