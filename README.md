@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/JJHyunDev/LeetCode/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JJHyunDev/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/JJHyunDev/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/JJHyunDev/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2556-convert-the-temperature](https://github.com/JJHyunDev/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/JJHyunDev/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JJHyunDev/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JJHyunDev/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
