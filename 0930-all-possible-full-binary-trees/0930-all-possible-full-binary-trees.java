@@ -50,6 +50,7 @@ class Solution {
             }
         }
 
+        memo.put(n, result);
         return result;
     }
 }
