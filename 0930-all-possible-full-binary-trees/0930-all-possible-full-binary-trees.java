@@ -22,10 +22,8 @@ class Solution {
         }
 
         List<TreeNode> result = new ArrayList<>();
-
         if(n == 1) {
             result.add(new TreeNode(0));
-
             memo.put(n, result);
             return result;
         }
@@ -36,11 +34,11 @@ class Solution {
         }
 
         for(int i = 1; i < n; i += 2) {
-            int leftNodes = i;
-            int rightNodes = n - 1 - i;
-
-            List<TreeNode> leftSubtree = allPossibleFBT(leftNodes);
-            List<TreeNode> rightSubtree = allPossibleFBT(rightNodes);
+            int leftNode = i;
+            int rightNode = n - 1 - i; // - root, - left
+            
+            List<TreeNode> leftSubtree = allPossibleFBT(leftNode);
+            List<TreeNode> rightSubtree = allPossibleFBT(rightNode);
 
             for(TreeNode left : leftSubtree) {
                 for(TreeNode right : rightSubtree) {
@@ -52,7 +50,6 @@ class Solution {
             }
         }
 
-        memo.put(n, result);
         return result;
     }
 }
