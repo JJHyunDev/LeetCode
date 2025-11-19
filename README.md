@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JJHyunDev/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JJHyunDev/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/JJHyunDev/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/JJHyunDev/LeetCode/tree/master/4008-restore-finishing-order) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JJHyunDev/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JJHyunDev/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/JJHyunDev/LeetCode/tree/master/0338-counting-bits) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JJHyunDev/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JJHyunDev/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
@@ -199,4 +202,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JJHyunDev/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JJHyunDev/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
