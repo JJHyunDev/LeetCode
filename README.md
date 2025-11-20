@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/JJHyunDev/LeetCode/tree/master/4008-restore-finishing-order) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JJHyunDev/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JJHyunDev/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JJHyunDev/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3778-transform-array-by-parity](https://github.com/JJHyunDev/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Array
@@ -45,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1755-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JJHyunDev/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/JJHyunDev/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JJHyunDev/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -175,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/JJHyunDev/LeetCode/tree/master/0338-counting-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JJHyunDev/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/JJHyunDev/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
