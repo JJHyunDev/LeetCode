@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/JJHyunDev/LeetCode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1652-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/JJHyunDev/LeetCode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1761-count-sorted-vowel-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Bit Manipulation
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
