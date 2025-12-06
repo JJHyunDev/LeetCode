@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JJHyunDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JJHyunDev/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JJHyunDev/LeetCode/tree/master/0242-valid-anagram) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/JJHyunDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JJHyunDev/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/JJHyunDev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/JJHyunDev/LeetCode/tree/master/0217-contains-duplicate) |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JJHyunDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JJHyunDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JJHyunDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
