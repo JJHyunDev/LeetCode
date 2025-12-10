@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JJHyunDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JJHyunDev/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/JJHyunDev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Combinatorics
