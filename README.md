@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/JJHyunDev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/JJHyunDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JJHyunDev/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/JJHyunDev/LeetCode/tree/master/0242-valid-anagram) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/JJHyunDev/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/JJHyunDev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/JJHyunDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JJHyunDev/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -287,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/JJHyunDev/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JJHyunDev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
