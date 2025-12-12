@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JJHyunDev/LeetCode/tree/master/0242-valid-anagram) |
 | [0535-encode-and-decode-tinyurl](https://github.com/JJHyunDev/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JJHyunDev/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/0125-valid-palindrome) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
