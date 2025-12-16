@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JJHyunDev/LeetCode/tree/master/0011-container-with-most-water) |
 | [1285-balance-a-binary-search-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JJHyunDev/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JJHyunDev/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JJHyunDev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JJHyunDev/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JJHyunDev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JJHyunDev/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JJHyunDev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
