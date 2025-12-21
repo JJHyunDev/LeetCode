@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/JJHyunDev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JJHyunDev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JJHyunDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JJHyunDev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/JJHyunDev/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/JJHyunDev/LeetCode/tree/master/0217-contains-duplicate) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/JJHyunDev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/JJHyunDev/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JJHyunDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JJHyunDev/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JJHyunDev/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1761-count-sorted-vowel-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/JJHyunDev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JJHyunDev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JJHyunDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/JJHyunDev/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
