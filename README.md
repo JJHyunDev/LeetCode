@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/JJHyunDev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/JJHyunDev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/JJHyunDev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JJHyunDev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JJHyunDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/JJHyunDev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JJHyunDev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/JJHyunDev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/JJHyunDev/LeetCode/tree/master/0704-binary-search) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/JJHyunDev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Combinatorics
