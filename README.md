@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JJHyunDev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/JJHyunDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/JJHyunDev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JJHyunDev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/JJHyunDev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JJHyunDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/0125-valid-palindrome) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JJHyunDev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/JJHyunDev/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1755-defuse-the-bomb) |
