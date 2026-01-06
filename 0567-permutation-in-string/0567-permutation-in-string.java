@@ -7,11 +7,10 @@ class Solution {
         }
 
         HashMap<Character, Integer> s2Map = new HashMap<>();
-        
         int left = 0;
         for(int right = 0; right < s2.length(); right++) {
             char rightChar = s2.charAt(right);
-            s2Map.put(rightChar , s2Map.getOrDefault(rightChar, 0) + 1);
+            s2Map.put(rightChar, s2Map.getOrDefault(rightChar, 0) + 1);
 
             if(right - left + 1 == s1.length()) {
                 if(s1Map.equals(s2Map)) {
