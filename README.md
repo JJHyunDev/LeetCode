@@ -289,11 +289,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JJHyunDev/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JJHyunDev/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JJHyunDev/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Matrix
 |  |
