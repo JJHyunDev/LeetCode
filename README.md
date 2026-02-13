@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/JJHyunDev/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JJHyunDev/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JJHyunDev/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/JJHyunDev/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JJHyunDev/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/JJHyunDev/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
