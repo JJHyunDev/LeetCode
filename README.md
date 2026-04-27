@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/JJHyunDev/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JJHyunDev/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/JJHyunDev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JJHyunDev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/JJHyunDev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JJHyunDev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/JJHyunDev/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JJHyunDev/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
