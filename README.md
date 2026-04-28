@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JJHyunDev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JJHyunDev/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3146-permutation-difference-between-two-strings](https://github.com/JJHyunDev/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/JJHyunDev/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JJHyunDev/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JJHyunDev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/JJHyunDev/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JJHyunDev/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
