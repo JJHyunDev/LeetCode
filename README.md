@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/JJHyunDev/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/JJHyunDev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/JJHyunDev/LeetCode/tree/master/0763-partition-labels) |
+| [0942-di-string-match](https://github.com/JJHyunDev/LeetCode/tree/master/0942-di-string-match) |
 | [0981-time-based-key-value-store](https://github.com/JJHyunDev/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JJHyunDev/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/JJHyunDev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/JJHyunDev/LeetCode/tree/master/0763-partition-labels) |
+| [0942-di-string-match](https://github.com/JJHyunDev/LeetCode/tree/master/0942-di-string-match) |
 | [1285-balance-a-binary-search-tree](https://github.com/JJHyunDev/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JJHyunDev/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/JJHyunDev/LeetCode/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/JJHyunDev/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/JJHyunDev/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0942-di-string-match](https://github.com/JJHyunDev/LeetCode/tree/master/0942-di-string-match) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JJHyunDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/JJHyunDev/LeetCode/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/JJHyunDev/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/JJHyunDev/LeetCode/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JJHyunDev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
