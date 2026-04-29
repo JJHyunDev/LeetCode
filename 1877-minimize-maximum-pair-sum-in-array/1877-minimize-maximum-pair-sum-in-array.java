@@ -1,14 +1,13 @@
 class Solution {
     public int minPairSum(int[] nums) {
-        int l = 0;
-        int r = nums.length - 1;
+        int left = 0;
+        int right = nums.length - 1;
         Arrays.sort(nums);
-
         int max = 0;
-        while(l < r) {
-            max = Math.max(max, nums[l] + nums[r]);
-            l++;
-            r--;
+        while(left < right) {
+            max = Math.max(max, nums[left] + nums[right]);
+            left++;
+            right--;
         }
 
         return max;
