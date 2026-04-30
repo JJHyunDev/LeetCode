@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JJHyunDev/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JJHyunDev/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3701-compute-alternating-sum](https://github.com/JJHyunDev/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/JJHyunDev/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/JJHyunDev/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/JJHyunDev/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/JJHyunDev/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JJHyunDev/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Tree
 |  |
