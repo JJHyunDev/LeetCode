@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JJHyunDev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/JJHyunDev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/JJHyunDev/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/JJHyunDev/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JJHyunDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JJHyunDev/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JJHyunDev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/JJHyunDev/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Linked List
