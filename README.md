@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JJHyunDev/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/JJHyunDev/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JJHyunDev/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/JJHyunDev/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/JJHyunDev/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/JJHyunDev/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/JJHyunDev/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [4008-restore-finishing-order](https://github.com/JJHyunDev/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/JJHyunDev/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/JJHyunDev/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/JJHyunDev/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
 | ------- |
