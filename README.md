@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/JJHyunDev/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JJHyunDev/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JJHyunDev/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JJHyunDev/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/JJHyunDev/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/JJHyunDev/LeetCode/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JJHyunDev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/JJHyunDev/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/JJHyunDev/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
