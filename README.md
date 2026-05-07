@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/JJHyunDev/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3146-permutation-difference-between-two-strings](https://github.com/JJHyunDev/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/JJHyunDev/LeetCode/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/JJHyunDev/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3271-hash-divided-string](https://github.com/JJHyunDev/LeetCode/tree/master/3271-hash-divided-string) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/JJHyunDev/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/JJHyunDev/LeetCode/tree/master/3271-hash-divided-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/JJHyunDev/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/JJHyunDev/LeetCode/tree/master/0853-car-fleet) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3174-clear-digits](https://github.com/JJHyunDev/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
