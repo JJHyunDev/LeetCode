@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JJHyunDev/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JJHyunDev/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/JJHyunDev/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1389-create-target-array-in-the-given-order](https://github.com/JJHyunDev/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/JJHyunDev/LeetCode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/JJHyunDev/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JJHyunDev/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/JJHyunDev/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/JJHyunDev/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JJHyunDev/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/JJHyunDev/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1688-count-of-matches-in-tournament](https://github.com/JJHyunDev/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1761-count-sorted-vowel-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JJHyunDev/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/JJHyunDev/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/JJHyunDev/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/JJHyunDev/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0930-all-possible-full-binary-trees](https://github.com/JJHyunDev/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JJHyunDev/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/JJHyunDev/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JJHyunDev/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
