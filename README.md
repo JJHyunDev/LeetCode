@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JJHyunDev/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JJHyunDev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JJHyunDev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/JJHyunDev/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/JJHyunDev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JJHyunDev/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/JJHyunDev/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/JJHyunDev/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1688-count-of-matches-in-tournament](https://github.com/JJHyunDev/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1761-count-sorted-vowel-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JJHyunDev/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/JJHyunDev/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/JJHyunDev/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
@@ -477,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
