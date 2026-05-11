@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/JJHyunDev/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/JJHyunDev/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JJHyunDev/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/JJHyunDev/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3194-find-words-containing-character](https://github.com/JJHyunDev/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JJHyunDev/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/JJHyunDev/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/JJHyunDev/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/JJHyunDev/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
