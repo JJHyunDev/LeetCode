@@ -1,25 +1,17 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        int n = nums.length;
+        int idx1 = 0, idx2 = 1, i = 0, n = nums.length;
         int[] ans = new int[n];
 
-        int left = 0;
-        int right = 0;
-        int idx = 0;
-        while(idx < n) {
-            if(idx % 2 == 0) {
-                while(nums[right] < 0) {
-                    right++;
-                }
-
-                ans[idx++] = nums[right++];         
+        while(i < n) {
+            if(nums[i] >= 0) {
+                ans[idx1] = nums[i];
+                idx1 += 2;
             } else {
-                while(nums[left] >= 0) {
-                    left++;
-                } 
-
-                ans[idx++] = nums[left++];
+                ans[idx2] = nums[i];
+                idx2 += 2;
             }
+            i++;
         }
 
         return ans;
