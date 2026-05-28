@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JJHyunDev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JJHyunDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/JJHyunDev/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1755-defuse-the-bomb](https://github.com/JJHyunDev/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/JJHyunDev/LeetCode/tree/master/0853-car-fleet) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/JJHyunDev/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JJHyunDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JJHyunDev/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
