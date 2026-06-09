@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/JJHyunDev/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JJHyunDev/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/JJHyunDev/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/JJHyunDev/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2326-spiral-matrix-iv](https://github.com/JJHyunDev/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2367-number-of-arithmetic-triplets](https://github.com/JJHyunDev/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/JJHyunDev/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/JJHyunDev/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-find-triangular-sum-of-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/JJHyunDev/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/JJHyunDev/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JJHyunDev/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/JJHyunDev/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JJHyunDev/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/JJHyunDev/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/JJHyunDev/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/JJHyunDev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/JJHyunDev/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/JJHyunDev/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -434,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JJHyunDev/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2326-spiral-matrix-iv](https://github.com/JJHyunDev/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/JJHyunDev/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/JJHyunDev/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JJHyunDev/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
 |  |
