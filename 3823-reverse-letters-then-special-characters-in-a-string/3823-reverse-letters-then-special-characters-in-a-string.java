@@ -1,27 +1,25 @@
 class Solution {
     public String reverseByType(String s) {
         char[] arr = s.toCharArray();
-        int n = arr.length;
+        int letter = arr.length - 1;
+        int special = arr.length - 1;
 
         StringBuilder sb = new StringBuilder();
-
-        int letter = n - 1;
-        int special = n - 1;
-        for(int i = 0; i < n; i++) {
-            if(Character.isLowerCase(arr[i])) {
-                while(!Character.isLowerCase(arr[letter])) {
+        for(char c : arr) {
+            if(Character.isLetter(c)) {
+                while(!Character.isLetter(arr[letter])) {
                     letter--;
                 }
-
-                sb.append(arr[letter--]);
+                sb.append(arr[letter]);
+                letter--;
             } else {
-                while(Character.isLowerCase(arr[special])) {
+                while(Character.isLetter(arr[special])) {
                     special--;
                 }
-
-                sb.append(arr[special--]);
+                sb.append(arr[special]);
+                special--;
             }
-        }
+        }        
 
         return sb.toString();
     }
