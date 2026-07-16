@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0942-di-string-match](https://github.com/JJHyunDev/LeetCode/tree/master/0942-di-string-match) |
 | [0981-time-based-key-value-store](https://github.com/JJHyunDev/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/JJHyunDev/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1768-merge-strings-alternately](https://github.com/JJHyunDev/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JJHyunDev/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/JJHyunDev/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JJHyunDev/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/JJHyunDev/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/JJHyunDev/LeetCode/tree/master/0942-di-string-match) |
+| [1768-merge-strings-alternately](https://github.com/JJHyunDev/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JJHyunDev/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JJHyunDev/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JJHyunDev/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
